@@ -1,0 +1,147 @@
+header {
+	position: fixed;
+	z-index: 1000;
+	background: white;
+	display: flex;
+	height: 70px;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	border-bottom: 1px solid #424242;
+}
+body {
+	margin: 0;
+}
+.i_logo {
+	height: 40px;
+	width: 40px;
+	margin-right: 5px;
+	border-right: 3px solid black;
+	padding-right: 5px;
+}
+.profile_logo {
+	height: 37px;
+	width: 37px;
+	margin-right: 8px;
+	margin-left:20px;
+}
+.i2_logo {
+	height: 40px;
+	width: 160px;
+	margin-left: 7px;
+	margin-right: 230px;
+}
+.search {
+	height: 30px;
+	width: 250px;
+	background: white;
+	border: 2px solid #5c5c5c;
+	text-align: center;
+	margin-right: 230px;
+}
+.s_font {
+	font-size: arial;
+	color: #5c5c5c;
+	margin-top:6px;
+}
+main {
+	display: flex;
+	border: 1px solid black;
+	border-radius: 5px;
+	height: 610px;
+	width: 600px;
+	margin-left: auto;
+	margin-bottom: 50px;
+}
+nav {
+	height: 129px;
+	width: auto;
+}
+.aside1 {
+	height: 70px;
+	width: 270px;
+	margin-left:10px;
+	margin-right: auto;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+.aside2 {
+	height: 260px;
+	width: 270px;
+	margin-left:10px;
+	margin-right: auto;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+.aside3 {
+	height: 280px;
+	width: 270px;
+	margin-left:10px;
+	margin-right: auto;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+.d-f {
+	display: flex;
+}
+.profile2_logo {
+	height: 45px;
+	width: 45px;
+	margin-left:7px;
+	margin-top:7px;
+}
+.p_font {
+	font-size: arial;
+	color: #5c5c5c;
+	margin-top:6px;
+	margin-left:3px;
+}
+.p_img {
+	height: 400px;
+	width: 600px;
+	position: absolute;
+	margin-top:75px;
+}
+.block {
+	margin-left: auto;
+}
+.d_font {
+	position: absolute;
+	color: #5c5c5c;
+	font-family: arial;
+	font-size: 14px;
+	margin-top:490px;
+	margin-left:15px;
+}
+.bl {
+    margin-right: auto;
+}
+.a_font {
+	font-size: arial;
+	color: #5c5c5c;
+	margin-top:6px;
+	margin-left:10px;
+	margin-right: 5px;
+	height: 10px;
+}
+.profile3_logo {
+	height: 54px;
+	width: 54px;
+	margin-left:7px;
+	margin-top:7px;
+}
+.a2_font {
+	font-size: arial;
+	color: #5c5c5c;
+	margin-top:14px;
+	margin-left:15px;
+}
+.p2_font {
+	color:#6aa2fc;
+	font-family: Arial;
+	font-size:14px;
+	height: 0;
+	position: absolute;
+}
